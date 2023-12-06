@@ -1,1 +1,1 @@
-"# abp_role_permission" >> README.md
+# abp_role_permission
